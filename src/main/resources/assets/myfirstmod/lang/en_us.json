@@ -1,4 +1,8 @@
 {
   "item.myfirstmod.mrbeast_burger": "MrBeast Burger",
-  "item.myfirstmod.mrbeast_fries": "MrBeast Fries"
+  "item.myfirstmod.mrbeast_fries": "MrBeast Fries",
+
+
+  "block.myfirstmod.meat_block": "Block Of Meat",
+  "block.myfirstmod.meat_ore": "Meat Ore"
 }

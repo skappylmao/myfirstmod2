@@ -1,6 +1,7 @@
 package net.skappylmao.myfirstmod;
 
 import net.fabricmc.api.ModInitializer;
+import net.skappylmao.myfirstmod.block.ModBlocks;
 import net.skappylmao.myfirstmod.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -14,6 +15,7 @@ public class MyFirstMod implements ModInitializer {
 
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }
